@@ -1,7 +1,7 @@
 
 <?php
-$nombre = "Juan";
-$edad = 25;
+$nombre = "Ricardo";
+$edad = 35;
 
 // Concatenación usando el operador .
 $presentacion1 = "Hola, mi nombre es " . $nombre . " y tengo " . $edad . " años.";
